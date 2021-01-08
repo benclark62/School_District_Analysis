@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## Overview of the school district analysis: 
+## Overview: 
 We have been tasked with assisting the City School District Chief Data Scientist in aggregating, cleaning, and analyzing standardized test data.  The final output highlights trends in school funding, the impact of funding on student performance, and is intended to inform the School Board's upcoming decisions on school funding. 
 
 Upon discovering grading irregularities in the Thomas High School ninth grade class, the reading and math grades for all students in that cohort were converted to "NaN" values while grading processes were being evaluated.  For this exercise, we were then tasked with refreshing the overall District-, School-, and Grade-level analysis.
