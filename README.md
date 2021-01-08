@@ -74,10 +74,10 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 - Passing percentages also reflected minor negative impacts: % Passing Math (-2bps), % Passing Reading (-6bps), and % Overall Passing (-6bps)
 
 **Results by School Size Group BEFORE Changes**
-![Performance by Size BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_size_BEFORE.png)
+![Performance by Size BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_size_before.png)
 
 **Results by School Size Group AFTER Changes**
-![Perfromance by Size AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_size_AFTER.png)  
+![Perfromance by Size AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_size_after.png)  
 
 #### Scores by school type
 - The Charter school type, which includes Thomas High School, was the only type affected by the grade updates
@@ -85,10 +85,10 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 - Passing percentages also reflected minor negative impacts: % Passing Math (-1bps), % Passing Reading (-4bps), and % Overall Passing (-4bps)
 
 **Results by School Type BEFORE Changes**
-![Performance by Type BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_type_BEFORE.png)
+![Performance by Type BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_type_before.png)
 
 **Results by School Type AFTER Changes**
-![Perfromance by Type AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_type_AFTER.png)
+![Perfromance by Type AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_type_after.png)
 
 
 ## Summary: 
