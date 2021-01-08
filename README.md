@@ -15,6 +15,10 @@ Using bulleted lists and images of DataFrames as support, address the following 
 - % Passing Math and % Passing Reading were each reduced by -22bps and -15bps in the udpated analysis (from 74.98% to 74.76% and from 85.81% to 85.66%, respectively)
 - % Overall Passing was reduced -31bps (from 65.17% to 64.86%)
 
+![district_summary_df_BEFORE](https://github.com/benclark62/School-District-Analysis/blob/main/resources/district_summary_df_BEFORE.png)
+
+![district_summary_df_AFTER](https://github.com/benclark62/School-District-Analysis/blob/main/resources/district_summary_df_AFTER.png)
+
 ### How is the school summary affected?
 -- add THS from per_school_summary_df
 - Removing the questionable THS test scores resulted in slight changes in average scores and passing rates
