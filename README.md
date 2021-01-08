@@ -77,7 +77,7 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 ![Performance by Size BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_size_BEFORE.png)
 
 **Results by School Size Group AFTER Changes**
-![Perfromance by Size AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_size_AFTER.png)
+![Perfromance by Size AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_size_AFTER.png)  
 
 #### Scores by school type
 - The Charter school type, which includes Thomas High School, was the only type affected by the grade updates
