@@ -7,25 +7,30 @@ We have been tasked with assisting the City School District Chief Data Scientist
 Upon discovering grading irregularities in the Thomas High School ninth grade class, the reading and math grades for all students in that cohort were converted to "NaN" values while grading processes were being evaluated.  For this exercise, we were then tasked with refreshing the overall District-, School-, and Grade-level analysis.
 
 ## Results: 
-Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### How is the district summary affected?
--- add district_summary_df images before / after ---
 - Removing the questionable Thomas High School ninth grade test scores (THS) had resulted in slight reductions in % passing results for the entire District
 - % Passing Math and % Passing Reading were each reduced by -22bps and -15bps in the udpated analysis (from 74.98% to 74.76% and from 85.81% to 85.66%, respectively)
 - % Overall Passing was reduced -31bps (from 65.17% to 64.86%)
 
-![district_summary_df_BEFORE](https://github.com/benclark62/School-District-Analysis/blob/main/Resources/district_summary_df_BEFORE.png)
+![district_summary_df_BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/district_summary_df_BEFORE.png)
+District Summary BEFORE Changes
 
-![district_summary_df_AFTER](https://github.com/benclark62/School-District-Analysis/blob/main/Resources/district_summary_df_AFTER.png)
+![district_summary_df_AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/district_summary_df_AFTER.png)
+District Summary AFTER Changes
 
 ### How is the school summary affected?
--- add THS from per_school_summary_df
 - Removing the questionable THS test scores resulted in slight changes in average scores and passing rates
 - Average Math Scores (-7bps) and % Passing Math (-9bps) saw minor reductions
 - Average Reading Scores were a mixed bag with a small increase in Average Reading Score (+5bps) but a reduction in passing rates (-29bps)
-- Overall Passing Percentage dropped from 90.94% to 90.63%
+- Overall Passing Percentage dropped from 90.95% to 90.63%
 - The minor impacts to Thomas High School performance indicate that the contested ninth grade scores were in-line with performance observed in grades 10-12
+
+![School Summary BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/ths_per_school_summary_df_BEFORE.png)
+Per School Summary BEFORE Changes
+
+![School Summary AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/ths_per_school_summary_df_AFTER.png)
+Per School Summary AFTER Changes
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Thomas High School rankings realtive to other schools did not change based after removing ninth graders' scores
