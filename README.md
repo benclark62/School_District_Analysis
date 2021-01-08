@@ -92,6 +92,7 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 
 
 ## Summary: 
+The key takeaways following the removal of ninth-grade standardized test results were:
 - Thomas High School saw a -32bps reduction in Overall Passing % after removing the ninth-grade scores, dropping from 90.95% to 90.63%
 - The entire District's Overall Passing % saw a -31bps reduction, dropping to 64.86% from 65.17%
 - Average Math Scores and % Passing Math were more negatively impacted than Reading in all categories by the replacement of the Thomas High School ninth-grade scores
