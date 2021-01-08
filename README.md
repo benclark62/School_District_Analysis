@@ -8,7 +8,7 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 ## Results: 
 
 ### How is the district summary affected?
-- Removing the questionable Thomas High School ninth grade test scores (THS) had resulted in slight reductions in % passing results for the entire District
+- Removing the questionable Thomas High School ninth grade test scores (THS) resulted in slight reductions in % passing results for the entire District
 - % Passing Math and % Passing Reading were each reduced by -22bps and -15bps in the updated analysis (from 74.98% to 74.76% and from 85.81% to 85.66%, respectively)
 - % Overall Passing was reduced -31bps (from 65.17% to 64.86%)
 
