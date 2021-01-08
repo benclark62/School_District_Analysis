@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview of the school district analysis: 
-We have been tasked with assisting the City School District Chief Data Scientist in aggregating, clenaing, and analyizing standardized test data.  The final output highlights trends in school funding, the impact of funding on student performance, and is intended to inform the School Board's upcoming decisions on school funding. 
+We have been tasked with assisting the City School District Chief Data Scientist in aggregating, cleaning, and analyzing standardized test data.  The final output highlights trends in school funding, the impact of funding on student performance, and is intended to inform the School Board's upcoming decisions on school funding. 
 
 Upon discovering grading irregularities in the Thomas High School ninth grade class, the reading and math grades for all students in that cohort were converted to "NaN" values while grading processes were being evaluated.  For this exercise, we were then tasked with refreshing the overall District-, School-, and Grade-level analysis.
 
@@ -9,7 +9,7 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 
 ### How is the district summary affected?
 - Removing the questionable Thomas High School ninth grade test scores (THS) had resulted in slight reductions in % passing results for the entire District
-- % Passing Math and % Passing Reading were each reduced by -22bps and -15bps in the udpated analysis (from 74.98% to 74.76% and from 85.81% to 85.66%, respectively)
+- % Passing Math and % Passing Reading were each reduced by -22bps and -15bps in the updated analysis (from 74.98% to 74.76% and from 85.81% to 85.66%, respectively)
 - % Overall Passing was reduced -31bps (from 65.17% to 64.86%)
 
 **District Summary BEFORE Changes**
@@ -34,7 +34,7 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- Thomas High School rankings realtive to other schools did not change based after removing ninth graders' scores
+- Thomas High School rankings relative to other schools did not change based after removing ninth graders' scores
 - Based on Overall Passing Percentage, Thomas High School remained the second highest ranked school behind Cabrera High School
 
 
@@ -58,7 +58,7 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 ![Average Reading by Grade AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/reading_by_grade_AFTER.png)
 
 #### Scores by school spending
-- The $630 - $644 bin, which includes Thomas High School, was the only bin affected by the grade udpates
+- The $630 - $644 bin, which includes Thomas High School, was the only bin affected by the grade updates
 - Average math (-2bps) and average reading (+2bps) scores saw minor changes
 - Passing percentages also reflected minor negative impacts: % Passing Math (-2bps), % Passing Reading (-7bps), and % Overall Passing (-8bps)
 
@@ -69,9 +69,9 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 ![Perfromance by Spend AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_spend_AFTER.png)
 
 #### Scores by school size
-- The Medium (1000 - 2000) cohoort, which includes Thomas High School, was the only cohort affected by the grade updates
+- The Medium (1000 - 2000) cohort, which includes Thomas High School, was the only cohort affected by the grade updates
 - Average math (-1bps) and average reading (+1bps) scores saw minor changes
-- Passing percntages also reflected minor negative impacts: % Passing Math (-2bps), % Passing Reading (-6bps), and % Overall Passing (-6bps)
+- Passing percentages also reflected minor negative impacts: % Passing Math (-2bps), % Passing Reading (-6bps), and % Overall Passing (-6bps)
 
 **Results by School Size Group BEFORE Changes**
 ![Performance by Size BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_size_BEFORE.png)
@@ -80,7 +80,7 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 ![Perfromance by Size AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/perf_by_size_AFTER.png)
 
 #### Scores by school type
-- The Charter school type, which includeds Thomas High School, was the only type affected by the grade updates
+- The Charter school type, which includes Thomas High School, was the only type affected by the grade updates
 - Average math and reading scores saw changes of <1bps
 - Passing percentages also reflected minor negative impacts: % Passing Math (-1bps), % Passing Reading (-4bps), and % Overall Passing (-4bps)
 
