@@ -40,7 +40,7 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
-- While only Thomas High School ninth-grade scores were affected, the overall district ninth-grade average math scores dropped -20bps (from 78.94 to 78.74) and reading scores declined by -7bps (from 81.91 to 81.84)
+- While only Thomas High School ninth-grade scores were affected, the overall district ninth-grade average reading scores declined by -7bps (from 81.91 to 81.84) and math scores dropped -20bps (from 78.94 to 78.74)
 - Math and Reading scores for tenth- through twelfth-grade students across the district were unaffected
 
 **District Level Ninth-Grade Average Scores BEFORE Changes**
