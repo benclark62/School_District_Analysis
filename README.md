@@ -1,5 +1,4 @@
 # School_District_Analysis
-Module 4 - Python &amp; Jupyter
 
 ## Overview of the school district analysis: 
 We have been tasked with assisting the City School District Chief Data Scientist in aggregating, clenaing, and analyizing standardized test data.  The final output highlights trends in school funding, the impact of funding on student performance, and is intended to inform the School Board's upcoming decisions on school funding. 
