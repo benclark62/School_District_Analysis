@@ -27,10 +27,10 @@ Upon discovering grading irregularities in the Thomas High School ninth grade cl
 - Overall Passing Percentage dropped from 90.95% to 90.63%
 - The minor impacts to Thomas High School performance indicate that the contested ninth grade scores were in-line with performance observed in grades 10-12
 
-Per School Summary BEFORE Changes
+**Top 5 Schools Summary BEFORE Changes**
 ![School Summary BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/ths_per_school_summary_df_BEFORE.png)
 
-Per School Summary AFTER Changes
+**Top 5 School Summary AFTER Changes**
 ![School Summary AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/ths_per_school_summary_df_AFTER.png)
 
 
@@ -44,7 +44,11 @@ Per School Summary AFTER Changes
 - While only Thomas High School ninth-grade scores were affected, the overall district ninth-grade average math scores dropped -20bps (from 78.94 to 78.74) and reading scores declined by -7bps (from 81.91 to 81.84)
 - Math and Reading scores for tenth- through twelfth-grade students across the district were unaffected
 
-![district_summary_df_BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/district_summary_df_BEFORE.png)
+**District Level Ninth-Grade Average Scores BEFORE Changes**
+![Ninth Grade Averages BEFORE](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/ninth-grade_averages_BEFORE.png)
+
+**District Level Ninth-Grade Average Scores AFTER Changes**
+![Ninth Grade Averages AFTER](https://github.com/benclark62/School_District_Analysis/blob/main/Resources/ninth-grade_average_scores_AFTER.png)
 
 #### Scores by school spending
 -- add perf_by_spend before and after
